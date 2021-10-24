@@ -18,11 +18,30 @@
   <li>Задание варианта (вывести список абитуриентов, средний балл которых выше среднего балла по университету) выполняется по нажатию кнопки Sort</li>
 </ol>
 
+<h2>
+  Ссылки на элементы проекта
+</h2>
+
+
+  - [activity_main.xml](./app/src/main/res/layout/activity_main.xml)
+  - [activity_add.xml](./app/src/main/res/layout/activity_add.xml) - для AddActivity
+  - [activity_edit.xml](./app/src/main/res/layout/activity_edit.xml) - для EditActivity
+  - [item.xml](./app/src/main/res/layout/item.xml)  - для отображения элемента списка ListView с помощью StudentAdapter
+  - [MainActivity](./app/src/main/java/com/example/university/MainActivity.java)
+  - [AddActivity](./app/src/main/java/com/example/university/AddActivity.java) - для добавления студента
+  - [EditActivity](./app/src/main/java/com/example/university/EditActivity.java) - для редактирования студента
+  - [Student](./app/src/main/java/com/example/university/Student.java)
+  - [StudentAdapter](./app/src/main/java/com/example/university/StudentAdapter.java) - собственный адаптер
+
+ ---
+ 
 <p align="center">
   <img src="images/Menu.jpg" width="300">
   <img src="images/AddStudent.jpg" width="300">
 </p>
 
+ ---
+ 
 <p align="center">
   <img src="images/MenuWithStudent.jpg" width="300">
   <img src="images/FunctionsMenu.jpg" width="300">
