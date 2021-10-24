@@ -15,4 +15,15 @@
   <li>Меню доступных функций показывается по долгому нажатию на элемент списка (функции редактирования и удаления элемента).</li>
   <li>Создан собственный адаптер для списка (StudentAdapter).</li>
   <li>Реализована функция открытия файла и заполнения из него полей списка с помощью парсера (Choose file button).</li>
+  <li>Задание варианта (вывести список абитуриентов, средний балл которых выше среднего балла по университету) выполняется по нажатию кнопки Sort</li>
 </ol>
+
+<p align="center">
+  <img src="images/Menu.jpg" width="300">
+  <img src="images/AddStudent.jpg" width="300">
+</p>
+
+<p align="center">
+  <img src="images/MenuWithStudent.jpg" width="300">
+  <img src="images/FunctionsMenu.jpg" width="300">
+</p>
